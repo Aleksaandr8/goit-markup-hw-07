@@ -399,7 +399,7 @@ img {
         rgb(46, 47, 66, 0.7),
         rgb(46, 47, 66, 0.7)
       ),
-      url("../images/Hero/Hero-mobile/img-name@2x.jpg");
+      url("../images/Hero/Hero-mobile/img-name-mobile.jpg");
   }
 }
 
@@ -421,7 +421,7 @@ img {
         rgb(46, 47, 66, 0.7),
         rgb(46, 47, 66, 0.7)
       ),
-      url("../images/Hero/Hero-tablet/img-name@2x.jpg");
+      url("../images/Hero/Hero-tablet/img-name-tablet.jpg");
   }
 }
 
@@ -443,7 +443,7 @@ img {
         rgb(46, 47, 66, 0.7),
         rgb(46, 47, 66, 0.7)
       ),
-      url("../images/Hero/img-name@2x.jpg");
+      url("../images/Hero/img-name.jpg");
   }
 }
 
