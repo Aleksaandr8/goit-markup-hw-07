@@ -385,7 +385,7 @@ img {
 
   max-width: 1440px;
   background-image: linear-gradient(rgb(46, 47, 66, 0.7), rgb(46, 47, 66, 0.7)),
-    url(../images/Hero/img-name.jpg);
+    url(../images/Hero/Hero-mobile/img-name.jpg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
